@@ -9,7 +9,6 @@ import {
 import { Todo } from "./features/todoSlice";
 import { toast } from "react-toastify";
 import { Navbar } from "./components/Navbar";
-import { ThemeProvider } from "./components/ui/theme-provider"; // Adjust the path as necessary
 import { Button } from "./components/ui/button";
 
 function App() {
